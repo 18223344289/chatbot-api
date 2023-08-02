@@ -90,6 +90,11 @@
         <artifactId>hutool-all</artifactId>
         <version>5.8.10</version>
       </dependency>
+      <dependency>
+        <groupId>com.lhp47.ai</groupId>
+        <artifactId>chatbot-api-domain</artifactId>
+        <version>1.8-SNAPSHOT</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
